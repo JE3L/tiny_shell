@@ -1,8 +1,6 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * <NAME :- Jeel Prajapati>
- * <email:- 201501213@daiict.ac.in>
  */
 #include <stdio.h>
 #include <stdlib.h>
